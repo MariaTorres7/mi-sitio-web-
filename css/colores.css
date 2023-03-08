@@ -1,0 +1,33 @@
+body    {
+    background-color: Thistle;
+}
+.box1   {
+    background-color: MediumOrchid;
+    width: 300px;
+    height: 300px;
+} 
+.box2   {
+    background-color: DarkMagenta;
+    width: 300px;
+    height: 300px;
+}                   
+.box3   {
+    background-color: DarkCyan;
+    width: 300px;
+    height: 300px;
+}      
+.box4   {
+    background-color: PaleTurquoise;
+    width: 300px;
+    height: 300px;
+}                    
+.box5   {
+    background-color:DarkTurquoise ;
+    width: 300px;
+    height: 300px;
+}                   
+.box6   {
+    background-color:DeepSkyBlue ;
+    width: 300px;
+    height: 300px;
+}                                                                   
